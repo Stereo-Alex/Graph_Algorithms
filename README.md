@@ -1,4 +1,4 @@
-# Graph_Algorithms
+# Graph Algorithms
 
 *Alex Jurado*
 
